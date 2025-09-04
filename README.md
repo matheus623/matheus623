@@ -4,4 +4,4 @@
  
 - essa sera minha pagina de estudos 
 
-- sou aluno do 1D
+- sou aluno do 1d
